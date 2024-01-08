@@ -19,30 +19,26 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
+        I'm currently taking{" "}
+        <span className="font-medium">Electronics Engineering</span> with a focus on 
+        AI, with a cGPA of 3.91/4.3. I have a passion for programming. I did many coding projects and internships and learned{" "}
+        <span className="font-medium">full-stack web development</span> thoroughly.{" "}
+        My core stack is{" "}
         <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
+          React, Next.js, Node.js, MongoDB, and TypeScript
         </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
+        . I am always looking to learn new technologies. I am currently looking for an{" "}
+        <span className="font-medium">internship position</span> as a software
         developer.
       </p>
 
       <p>
         <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and playing with my dog. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I'm also
-        learning how to play the guitar.
+        piano, do content creation, and invest in crypto projects. I also enjoy{" "}
+        <span className="font-medium">reading books</span>. I am currently
+        reading{" "}
+        <span className="font-medium">Ed Catmull's Creativity, Inc.</span>. I love
+        learning new things!
       </p>
     </motion.section>
   );
